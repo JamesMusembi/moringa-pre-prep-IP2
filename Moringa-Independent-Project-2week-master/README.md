@@ -1,8 +1,8 @@
 # Insuarance Website
 
-<p>This is a clone to an insuarance website, 28/01/2022</p>
+<p>This is a clone to an insuarance website, 25/06/2022</p>
 
-##### By Isaac kiptoo
+##### By James Musembi
 ### It is a description of Insuarance Website.
 
 
@@ -47,7 +47,7 @@ six sections,the header with navigation bar,the services offered,the location of
 
 MIT License
 
-Copyright © license 2022 Isaac kiptoo kilimo, student Moringa school
+Copyright © license 2022 Isaac James Musembi, student Moringa school
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -71,9 +71,9 @@ SOFTWARE.
 
 ## Authors Info/contacts
 
-Github Profile - [Isaac kiptoo kilimo](https://github.com/Isaac-kiptoo-kilimo)
+Github Profile - [James Musembi](https://github.com/JamesMusembi)
 
-Email Address-[Isaac kiptoo kilimo] (isaac.kiptoo.kilimo@student.moringaschool.com)
+Email Address-[James Musembi] (james.musembi.kilimo@student.moringaschool.com)
 
 
 [Go Back to the top](#Insuarance Website)
